@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on A Dog walks into a Noise Concert</title>
+    <link>http://example.org/tags/test/</link>
+    <description>Recent content in test on A Dog walks into a Noise Concert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event</title>
+      <link>http://example.org/keywords/event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/keywords/event/</guid>
+      <description>If you are playing with your band and you play a wrong note, don&amp;rsquo;t freeze but play on. Act as if nothing happened. The listener will think that the note is part of the arrangement, they wouldn&amp;rsquo;t even notice and will keep dancing to the beat. When on the other hand you, or worse, the whole band stops playing, the listener will notice. They will wonder what happened. The train has stopped.</description>
+    </item>
+    
+  </channel>
+</rss>
